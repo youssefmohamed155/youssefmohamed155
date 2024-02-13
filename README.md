@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communication and electronics student who is passionate about Embedded Software.
+I'm a Mechatronics student who is passionate about Embedded Software.
 
 - 🎓 &nbsp; I’m currently a senior student at Beni Suef Unversity.
 - 💼 &nbsp; .
