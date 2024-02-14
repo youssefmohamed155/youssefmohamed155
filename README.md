@@ -7,6 +7,8 @@
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
 
+<img width="200" align="right" alt="Github" src="file:///Users/youssefmohammed/Downloads/how-to-start+(2)/how-to-start%20(2).gif_p3.html" />
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 I'm a Mechatronics student who is passionate about Embedded Software.
