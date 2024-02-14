@@ -4,7 +4,7 @@
 </p>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/dev-working_rounded.gif" alt="working developer">
+  <img src="https://example.com/path/to/image.gif" alt="GIF">
 </p>
 
 <img width="200" align="right" alt="Github" src="file:///Users/youssefmohammed/Downloads/how-to-start+(2)/how-to-start%20(2).gif_p3.html" />
