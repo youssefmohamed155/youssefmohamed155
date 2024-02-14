@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5117&pause=1169&color=2D9596&background=B757FF00&multiline=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Embedded+System+from+Egypt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=15&duration=5117&pause=1169&color=2D9596&background=B757FF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Embedded+System+from+Egypt)](https://git.io/typing-svg)
 
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
