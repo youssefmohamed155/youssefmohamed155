@@ -49,12 +49,12 @@ I'm a Mechatronics student who is passionate about Embedded Software.
 [![Youssef Mohameed 's github stats](https://github-readme-stats.vercel.app/api?username=youssefmohamed155&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/youssefmohamed155/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
+
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
+    <img src="https://github.com/youssefmohamed155/youssefmohamed155/blob/output/github-contribution-grid-snake-dark.svg" alt="youssefmohamed155 pathrabe stats snake" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
+    <img src="./assets/sunrise.jpeg?sanitize=true" alt="youssefmohamed155" />
 </p>
