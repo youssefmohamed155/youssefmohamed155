@@ -53,7 +53,3 @@ I'm a Mechatronics student who is passionate about Embedded Software.
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
 </p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="youssefmohamed155" />
-</p>
