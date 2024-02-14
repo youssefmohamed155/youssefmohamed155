@@ -1,9 +1,6 @@
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Embedded +Software+software+engineer+from+Egypt" alt="Welcome to my GitHub Profile. I am a passionate Embedded System from Egypt" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5117&pause=1169&color=2D9596&background=B757FF00&multiline=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Embedded+System+from+Egypt)](https://git.io/typing-svg)
 
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
