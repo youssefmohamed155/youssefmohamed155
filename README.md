@@ -3,7 +3,7 @@
 
 <h2> Hey there! I'm Yousseef</h2>
 
-<img width="200" align="right" alt="Github" src="file:///Users/youssefmohammed/Downloads/how-to-start%20(1).gif" />
+<img width="200" align="right" alt="Github" <img src="./assets/dev-working_rounded.gif" alt="working developer">
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
