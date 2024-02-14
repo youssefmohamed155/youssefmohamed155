@@ -3,8 +3,6 @@
 
 <h2> Hey there! I'm Yousseef</h2>
 
-//<img width="200" align="right" alt="Github" <img src="./assets/dev-working_rounded.gif" alt="working developer">
-
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
