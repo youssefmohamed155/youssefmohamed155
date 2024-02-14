@@ -1,6 +1,6 @@
 
 <p align='center' style='margin: 16px 4px 8px;'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=15&duration=5117&pause=1169&color=2D9596&background=B757FF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Embedded+System+from+Egypt🇪🇬 " alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=15&duration=5117&pause=1169&color=2D9596&background=B757FF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Embedded+System+from+Egypt" alt="Typing SVG" /></a>
 </p>
 
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -26,7 +26,7 @@ I'm a Mechatronics student who is passionate about Embedded Software.
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 - ⚙️ &nbsp;
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
 
@@ -49,6 +49,24 @@ I'm a Mechatronics student who is passionate about Embedded Software.
 [![Youssef Mohameed 's github stats](https://github-readme-stats.vercel.app/api?username=youssefmohamed155&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/youssefmohamed155/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
+    Stats
+</h3>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshpathrabe&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="utkarshpathrabe" />
 </p>
-<img src="https://imgur.com/rilHVxA.png"/>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api?username=utkarshpathrabe&show_icons=true&locale=en&theme=gruvbox" alt="utkarshpathrabe" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpathrabe&theme=gruvbox" alt="utkarshpathrabe" />
+</p>
+
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
 </p>
