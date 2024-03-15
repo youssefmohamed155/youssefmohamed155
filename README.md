@@ -3,9 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=15&duration=5117&pause=1169&color=2D9596&background=B757FF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Embedded+System+from+Egypt" alt="Typing SVG" /></a>
 </p>
 
-<p align='center' style='margin: 16px 4px 8px;'>
-  <img src="file:///Users/youssefmohammed/Downloads/how-to-start%20(1)/how-to-start%20(1).html" alt="GIF">
-</p>
+///////
+///////
 
 <img width="200" align="right" alt="Github" src="file:///Users/youssefmohammed/Downloads/how-to-start+(2)/how-to-start%20(2).gif_p3.html" />
 
