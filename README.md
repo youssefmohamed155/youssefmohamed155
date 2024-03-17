@@ -11,7 +11,7 @@
 I'm a Mechatronics student who is passionate about Embedded Software.
 
 - 🎓 &nbsp; I’m currently a senior student at Beni Suef University.
-- 💼 &nbsp; .
+- 💼 &nbsp; Instructor In Embedded Committee IEEE & Life on Mars FEHU
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Sofware. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/youssef-mohammad-55404a267/) [Gmail](youssefmohammad155@gmail.com
 )
